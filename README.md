@@ -96,10 +96,7 @@ admin_manageproducts.html
 
 Installation & Setup
 
-Clone the Repository
 
-git clone https://github.com/yourusername/bookstore.git
-cd bookstore
 
 Create a Virtual Environment (Optional but Recommended)
 
