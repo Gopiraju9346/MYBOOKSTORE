@@ -120,13 +120,9 @@ Run the Application Locally
 
 python app.py
 
-The app will run on http://127.0.0.1:5078/.
-
 Future Enhancements
 
 Implement a payment gateway
-
-Improve UI/UX with better styling and interactivity
 
 Add user profile management features
 
